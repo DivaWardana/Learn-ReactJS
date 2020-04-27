@@ -1,0 +1,2 @@
+Resolusi
+- bisa membuat website menggunakan react
